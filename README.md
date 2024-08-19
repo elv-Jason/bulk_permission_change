@@ -20,3 +20,5 @@ iq__2vEMpmg8P5aQhiejtrd5YAWCHSc3
 ```
 node BulkPermissionChange.js <configUrl> <objectIdsFilePath>
 ```
+
+This code sets all objects to the 'public' permission setting by default. You can change this behavior by modifying the code.
